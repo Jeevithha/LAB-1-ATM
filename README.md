@@ -18,5 +18,5 @@ To create ATM System software that will meet the needs of the applicant and help
 
 ![266827051-771a4a95-1cc1-4382-861a-8ae4001cfa43](https://github.com/Jeevithha/LAB-1-ATM/assets/123623197/26fd05ae-2b99-4ab5-b6c4-44d077f6012f)
 
-RESULT:
+## RESULT:
 Thus the Atm and banking System project was executed and the output was verified.
